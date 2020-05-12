@@ -1,0 +1,28 @@
+week 5 quiz
+1."Argument" denotes the value passed to a function whereas "parameter" denotes the name by which the value is referred to in the body of the function.
+2.*
+3.9
+4.''
+5.3
+6.*
+7.3
+8.0
+9.*
+10. count-1
+11.26
+12.11
+13.3
+14.9
+15.*x = *x * *x;
+16.7
+17.8
+18.The recursion in the program will not terminate.
+19.It will draw a sequence of straight lines of length 10,20,...,140.
+20.True
+21.True
+22.True
+23.True
+24.True
+25.False
+26.False
+27.True

@@ -1,0 +1,12 @@
+week 12-quiz
+1.Whether any friends are stored for Amit in FRIENDS, (0: none, 1:some).
+2.How many friends Amit has, as stored in FRIENDS.
+3.(Type: String) f
+4.FRIENDS["Amit"].insert("Dharm");
+5.(Type: String) FRIENDS["Amit"].count("Dharm")
+(Type: String) FRIENDS["Amit"].count("Dharm")>0
+6.mapentry.first
+7.mapentry.second
+8.(Type: String) child
+9.(Type: Numeric) -10
+10.(Type: Numeric) 45

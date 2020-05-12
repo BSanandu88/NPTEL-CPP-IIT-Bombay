@@ -1,0 +1,19 @@
+week 10 quiz-
+1.The code contains a memory leak.
+The variable *(t.pt) is allocated on the heap.
+
+2.The code has a dangling pointer.
+3.The statement "names[0] = buffer;" will cause memory about as large as the size of the typed name to be allocated.
+4.operator*
+5.String
+6.(Type: String) const int
+(Type: String) const int&
+(Type: String) int
+(Type: String) int&
+
+7.SL vector of SL string
+8.4
+9.5
+10.children["Vikramaditya"][0]
+11.children.count("Samudragupta")
+12.children["Samudragupta"].size()

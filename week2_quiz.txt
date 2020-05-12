@@ -1,0 +1,30 @@
+week 2 quiz
+
+1._x
+x3
+
+2.cout << "What is your name?";
+3.0
+4.0
+5.2
+6.2.5
+7.65536
+8.3
+9.109
+10.5
+11.-1
+12.0
+13.1
+14.1
+15.result = result + term;
+i = i + 1;
+term = term / (i+1);
+16.0
+17.45
+18.10
+19.Rectangle r1(30,55,40,50);
+20.(Type: String) r1.right(5);
+(Type: String) r1.rotate(5*3.14/180);
+21.100
+22.50
+23.50

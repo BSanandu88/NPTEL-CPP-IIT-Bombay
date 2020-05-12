@@ -1,0 +1,20 @@
+week 4 quiz-
+1.The answer produced by the program will be larger than ln(x).
+2.Using Taylor series will be convenient.
+3.We will get as good an answer as we want if we take sufficiently many terms in either method A or method B.
+We will need fewer terms to get a good answer in method B than in method A.
+4.Not Equivalent
+5.Equivalent
+6.Equivalent
+7.not Equivalent
+8.x
+9.j
+10.pi/2, pi
+11.2.09
+12.max(m,n)
+13.<=
+14.m*n
+15.+
+16.1200
+17.0
+18.It can be done if the digits are given least significant to most significant and need to be printed in the same order

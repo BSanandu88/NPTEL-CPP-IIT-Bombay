@@ -1,0 +1,12 @@
+week 11 quiz-
+1.(Type: String) studMarks[s].size()
+2.sm.second.count(sub)
+3.sm.second[sub]
+4.60 20
+5.20 60
+6.map<string,string>, where map and string are from the standard library.
+7.String containing any of these (OR): /(.*)(?:\bmap>\b|\bmap>\b)(.*)/i
+8.rollno
+9.rhs.rollno
+10.subject
+11.rhs.subject

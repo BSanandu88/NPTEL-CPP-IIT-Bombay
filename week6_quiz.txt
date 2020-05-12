@@ -1,0 +1,18 @@
+week 6 quiz-
+1.13
+2.1
+3.2
+4.4
+5. T(n-1)
+6. T(n-2)
+7. T(n-3)
+8.int drawV(int D, double rx, double ry, double W, double H);
+void drawV(int D, double rx, double ry, double W, double H, int &returnval);
+
+9.s++ f2.cpp
+s++ -c f2.cpp
+s++ f2.cpp f4.cpp
+
+10.36
+11.5
+12. 26 10 14

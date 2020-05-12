@@ -1,0 +1,12 @@
+week 9 quiz-
+1.p is a structure type
+2.q is a structure member
+3.r is a structure instance
+4.(Type: String) u
+5.(Type: String) 99
+6.operator + in the definition of P
+7.False
+8.12
+9.true
+10.false
+11.false
